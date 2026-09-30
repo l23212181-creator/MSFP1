@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Bautista Paz Jesus Geovanny \23212181; l23212181@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
