@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Practica 1: Diseño de controlador para un sistema de
+  segundo orden.
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Jesus Geovanny '
+    family-names: Bautista Paz
+    email: l23212181@tectijuana.edu.mx
+repository-code: 'https://github.com/l23212181-creator/MSFP1'
+keywords:
+  - Circuito RLC
+  - ' Controlador I'
+  - Diseño de controlador
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-09-29'
